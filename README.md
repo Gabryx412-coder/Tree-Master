@@ -24,7 +24,7 @@ Un plugin essenziale per Minecraft che rivoluziona il modo in cui i giocatori in
 
 ## 🚀 Installazione
 
-1.  **Scarica** l'ultima versione del plugin TreeMaster da [qui]([LINK_ALLA_RELEASE_O_AL_DOWNLOAD](https://www.spigotmc.org/resources/treemaster.125930/)).
+1.  **Scarica** l'ultima versione del plugin TreeMaster da [[qui]](https://www.spigotmc.org/resources/treemaster.125930/).
 2.  **Sposta** il file `.jar` scaricato nella cartella `plugins` del tuo server Spigot/Paper.
 3.  **Riavvia** o **ricarica** il tuo server Minecraft.
 4.  Il plugin creerà automaticamente una cartella `TreeMaster` con il file `players.yml` al suo interno, per salvare le preferenze dei giocatori.
