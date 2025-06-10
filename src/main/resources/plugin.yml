@@ -1,0 +1,19 @@
+name: TreeMaster
+version: 1.0.0
+main: com.gabry.treemaster.TreeMaster
+api-version: 1.21
+authors: [Gabry]
+description: A plugin for automatic tree felling and stripping.
+commands:
+  treemaster:
+    description: Main command for TreeMaster plugin.
+    usage: /treemaster function <break|strip> <enable|disable>
+    permission: treemaster.use
+    permission-message: You do not have permission to use this command.
+permissions:
+  treemaster.use:
+    description: Allows players to use the TreeMaster commands.
+    default: op
+  treemaster.admin:
+    description: Allows players to administer TreeMaster (e.g., manage all settings).
+    default: op
